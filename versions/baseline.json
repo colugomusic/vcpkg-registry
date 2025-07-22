@@ -1,4 +1,12 @@
 {
   "default": {
+    "ads": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
+    "ez": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    }
   }
 }
