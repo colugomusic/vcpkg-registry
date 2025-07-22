@@ -1,6 +1,7 @@
 {
   "name": "ez",
   "version": "1.0.0",
+  "port-version": 1,
   "dependencies": [
     {
       "name": "vcpkg-cmake",
